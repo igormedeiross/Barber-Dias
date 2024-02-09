@@ -1,0 +1,41 @@
+{
+    // editor
+    "editor.wordWrap": "on",
+    "editor.frontSize": 18,
+    "editor.LineHeight": 30,
+    "editor.tabSize": 2,
+    "editor.bracketPairColorization.enable": true,
+    "editor.guidesbracketPairs": true,
+    "editor.minimap.enable": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome"
+
+    // explorer
+    "explorer.compactFolders": false,
+
+    //workbench
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-Theme",
+    "workbench.colorTheme": "Omni",
+
+    //prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.enable": true,
+    "prettier.singleQuote": false,
+    "prettier.tabWidth": 2,
+    "prettier.semi": false,
+
+    // terminal
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.profile.windows": {
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.default.Profile.windows": "Git Bash"
+
+
+
+}
